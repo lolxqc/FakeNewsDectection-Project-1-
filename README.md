@@ -1,2 +1,1 @@
-# FakeNewsDectection-Project-1-
-The "Fake News Detection" is a model developed with the understanding of machine learning and Natural language processing. This model detects if the given input is fake or not  based on the headlines based on its data
+The "Fake News Detection" is a model developed with the understanding Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest. This model detects if the given input is fake or not based on the headlines based on its data. It has an accuracy of 98% which is generally shows  the model is overfitting
